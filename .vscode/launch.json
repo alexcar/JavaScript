@@ -11,7 +11,7 @@
             "skipFiles": [
                 "<node_internals>/**"
             ],
-            "program": "${workspaceFolder}\\Comparar Horas e Minutos\\index.js"
+            "program": "${workspaceFolder}\\Var and Let\\index.js"
         }
     ]
 }
